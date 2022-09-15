@@ -1,0 +1,9 @@
+@import "../../../style/variable.scss";
+
+.expenses {
+  padding: 1rem;
+  background-color: $expense-background-color;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
